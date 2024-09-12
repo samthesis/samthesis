@@ -93,7 +93,7 @@ Ensure that the following are installed on your system:
 
 
 
-## 4. Available Scripts
+### 4. Available Scripts
 
 ### Backend
 
