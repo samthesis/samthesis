@@ -91,8 +91,21 @@ Ensure that the following are installed on your system:
 - Ensure that you have MySQL installed and running on your local machine or server.
 - Create a new database for the application and provide the credentials in the `.env` file.
 
-### Sample .env File
 
+
+## 4. Available Scripts
+
+### Backend
+
+- **`npm run sam`**: Starts the backend server.
+
+
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+    ```
 
 <!--
 **samthesis/samthesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
