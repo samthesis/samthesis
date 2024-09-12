@@ -1,0 +1,21 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react",
+   
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    /* Completeness */
+    "skipLibCheck": true ,    
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"],
+      "@assets/*": ["src/assets/*"],
+      "@common/*": ["src/common/*"],
+      "@redux/*": ["src/redux/*"],
+      "@utilities/*": ["src/utilities/*"],
+      "@screens/*": ["src/screens/*"],
+      "@pages/*": ["src/screens/pages/*"],
+    }
+  },
+}
