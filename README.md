@@ -19,7 +19,7 @@ This is a full-stack application built with **Node.js**, **Express**, **TypeScri
 
 Ensure that the following are installed on your system:
 
-- **Node.js** v16 or later
+- **Node.js** v18 or later
 - **MySQL** database
 - **React Native** development environment (with Android Studio or Xcode for iOS)
 
